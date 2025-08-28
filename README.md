@@ -5,4 +5,5 @@ Connect with me
 Email : pvrundhareddy@gmail.com
 Skills & Tools: HTML,CSS
 ##badge
-https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=Java&label=Java&color=Orange
+![Java](https://img.shields.io/badge/Java-Orange?style=for-the-badge&logo=java&logoColor=white)
+
